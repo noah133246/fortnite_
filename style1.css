@@ -69,7 +69,7 @@ main img {
     
     .bloc4 {
     flex: 1 1 calc(30% - 20px); /* Responsive cards */
-    background-color: #grey;
+    background-color: #5bff33;
     color: #183810;
     padding: 15px;
     border-radius: 10px;
